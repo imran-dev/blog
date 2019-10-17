@@ -71,7 +71,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel Blog
                 </div>
 
                 <div class="links">
